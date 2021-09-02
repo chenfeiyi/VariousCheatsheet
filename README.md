@@ -4,4 +4,4 @@ This repo collects many cheat sheets to meet daily needs.  Up to now, It contain
 
 - [git command](./gitcommand.md)
 - [common matrix calculus conversions](./matrix_calculus.md)
-- [latex math symbol](./math-symbols.pdf)
+- [latex math symbol](./math\-symbols.pdf)
