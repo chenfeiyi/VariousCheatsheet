@@ -38,10 +38,10 @@
 | $\alpha = x^TAx$ , $m=n$, $A^T = A$    | $\partial \alpha/ \partial y$ | $2Ax$                                                        |
 | $\alpha=y^Tx, x =f(z) y=f(z)\quad m=n$ | $\partial \alpha/ \partial z$ | $x\frac{\partial y}{\partial z}+y\frac{\partial x}{\partial z}$ |
 | $\alpha = y^TAx, y=f(z),x=f(z)$        | $\partial \alpha/ \partial z$ | $Ax\frac{\part y}{\part z}+A^ty\frac{\part x}{\part z}$      |
-|                                        |                               |                                                              |
-|                                        |                               |                                                              |
 
  
 
+### Reference
 
+[Matrix calculus](http://twister.caps.ou.edu/OBAN2019/Intro_FEM_files/IFEM.AppD.pdf)
 
